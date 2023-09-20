@@ -1,4 +1,3 @@
-    ['year',
     'Intentional homicides, female (per 100,000 female)',
     'Battle-related deaths (number of people)',
     'Voice and Accountability: Percentile Rank',
@@ -998,4 +997,3 @@
     'CO2 emissions from electricity and heat production, total (% of total fuel combustion)',
     'Disaster risk reduction progress score (1-5 scale; 5=best)',
     'PM2.5 pollution, population exposed to levels exceeding WHO Interim Target-3 value (% of total)',
-    ...]
